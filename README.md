@@ -8,7 +8,7 @@ In Ana-land, Linux is the way and only the terminal can bring peace.
 
 Software developer and teaching assistant.
 
-## Tech, tools and languages
+## Tech, languages and tools
 
 ### Frequently used
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
