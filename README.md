@@ -7,6 +7,10 @@ In Ana-land, Linux is the way and only the terminal can bring peace.
 ## What do I do?
 
 Software developer and teaching assistant.
+ 
+## What do I care about?
+
+Accessibility, privacy & GDPR compliance, clean code, proper feedback to the user, and functions that are responsible for one task only.
 
 ## Tech, languages and tools
 
