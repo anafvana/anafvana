@@ -6,7 +6,7 @@ In Ana-land, Linux is the way and only the terminal can bring peace.
 
 ## What do I do?
 
-Software developer and teaching assistant.
+Software developer and sometimes teaching assistant.
  
 ## What do I care about?
 
