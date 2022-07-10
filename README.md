@@ -1,5 +1,8 @@
 <div align="center">
 
+![](https://raw.githubusercontent.com/anafvana/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/anafvana/github-stats/master/generated/languages.svg)
+
 # Ana: a biography
 
 In Ana-land, Linux is the way and only the terminal can bring peace. 
