@@ -5,11 +5,11 @@
 
 # Ana: a biography
 
-In Ana-land, Linux is the way and only the terminal can bring peace. 
+What do you mean, we're not using punch-cards?
 
 ## What do I do?
 
-Software developer and sometimes teaching assistant.
+Software developer. Cybersecurity enthusiast.
  
 ## What do I care about?
 
